@@ -1,4 +1,5 @@
 # Wisdomic Panda
+> HOLD THE VISION AND TRUST THE PROCESS.
 ![Wisdomic Panda](https://github.com/robagwe/wisdomic-panda/blob/master/panda.png)
 
 
