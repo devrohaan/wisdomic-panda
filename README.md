@@ -1,2 +1,2 @@
 # wisdomic-panda
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/panda.png)
+![alt text](https://github.com/robagwe/wisdomic-panda/blob/master/panda.png)
