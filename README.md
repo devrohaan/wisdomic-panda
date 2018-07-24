@@ -1,2 +1,2 @@
 # Wisdomic Panda
-![alt text](https://github.com/robagwe/wisdomic-panda/blob/master/panda.png)
+![Wisdomic Panda](https://github.com/robagwe/wisdomic-panda/blob/master/panda.png)
